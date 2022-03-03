@@ -1,0 +1,16 @@
+Reference genomes:
+
+Staphylo
+Rhodo
+Homo sapiens (Chr 14)
+Yeast
+Worm
+Drosophila
+
+Sequenced reads collect
+
+1. Staph, rhodo, human, yeast -- targets -- find the sequence coordinates manually
+2. Yeast, worm, droso -- 16+8+6=30 coordinates and files: prepare
+3. List jekhan theke ei 3 ta ref namaisi
+4. List jekhan theke ei 3 ta reads namaisi
+5. 30 tar kothay Kon tool koyta guides dise list koro (excel) (120 entries)

@@ -1,0 +1,1 @@
+target sequence: in silico sequence: perturb the target with indels and snps: use the original reads: reconstruct the target: needleman: align: %similarity score
